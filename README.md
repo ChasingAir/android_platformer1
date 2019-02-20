@@ -1,5 +1,5 @@
-# android_platformer1
-Basic game foundation meant to be a guideline for future projects, as well as potentially turning into a fun game.
+# android_platformer1(working title)
+Basic game foundation meant to be a proof of concept for future projects, as well as potentially turning into a fun game.
 
 Authors:
 Chase M.
